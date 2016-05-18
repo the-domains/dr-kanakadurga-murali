@@ -4,7 +4,7 @@
         <description><![CDATA[Dr.Kanakadurga Murali]]></description>
         <link>https://thegrid.ai/dr-kanakadurga-murali/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 15:07:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dr-kanakadurga-murali/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -14,17 +14,17 @@
             <pubDate>Wed, 18 May 2016 14:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Papers & Publications]]></title>
-            <link>https://thegrid.ai/dr-kanakadurga-murali/publications-and-presentations/index.html</link>
-            <guid isPermaLink="false">d7170f81-5e04-4542-9339-fd8c03e6be01</guid>
-            <pubDate>Wed, 18 May 2016 14:36:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Courses Offered]]></title>
             <description><![CDATA[<p>Class IX, X - Science</p>]]></description>
             <link>https://thegrid.ai/dr-kanakadurga-murali/courses-offered/index.html</link>
             <guid isPermaLink="false">8e83058b-71d5-4dea-a151-133966a3f53e</guid>
-            <pubDate>Wed, 18 May 2016 14:29:17 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 15:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Papers & Publications]]></title>
+            <link>https://thegrid.ai/dr-kanakadurga-murali/publications-and-presentations/index.html</link>
+            <guid isPermaLink="false">d7170f81-5e04-4542-9339-fd8c03e6be01</guid>
+            <pubDate>Wed, 18 May 2016 14:36:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
