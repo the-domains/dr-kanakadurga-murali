@@ -1,28 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Class IX, X - Science'
-datePublished: '2016-05-18T13:49:15.518Z'
-dateModified: '2016-05-17T15:28:06.913Z'
+datePublished: '2016-05-18T14:29:17.851Z'
+dateModified: '2016-05-18T14:27:39.867Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-05-18-courses-offered.md
+authors: []
+publisher: null
+starred: false
 url: courses-offered/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b097402-ad39-427d-98ac-73981a513c48.jpg)
-
 Class IX, X - Science
 
 Class XI, X / PUC - Biology, Chemistry
@@ -36,3 +30,4 @@ B.Sc / M.Sc / B.E Biotechnology
 Genetics
 
 Project Work
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a9538c-aa0b-4fde-bff2-ac519a77c117.jpg)
