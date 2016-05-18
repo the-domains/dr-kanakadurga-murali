@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T14:11:21.487Z'
-dateModified: '2016-05-18T14:11:15.127Z'
+datePublished: '2016-05-18T14:36:51.729Z'
+dateModified: '2016-05-18T14:35:48.515Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-publications-and-presentations.md
@@ -17,6 +17,8 @@ url: publications-and-presentations/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29d58d53-e35f-4e28-9cc2-fd668666c388.jpg)
+
 * M. R Kanakadurga, K.Hanumantharao and K. Shyamasundari- "Two new species of amphipods (Crustacea) from Waltair coast sponge Callyspongia fibrosa". Indian journal of Zootomy Vol. XXII No.2 1981, pp71-80
 
 * M. R Kanakadurga, K.Hanumantharao and K.Shyamasundari- "A new species of amphiopod Hayale gopalaswamyi.sp new -- a commensal of sponges. J.Bombay nat.Hits soc. 82(1) 29.41985, 165-170
