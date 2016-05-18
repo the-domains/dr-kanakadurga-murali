@@ -4,56 +4,27 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: |+
-
-
-
-
-
-
-
-datePublished: '2016-05-18T13:50:04.373Z'
-dateModified: '2016-05-03T14:29:17.458Z'
+description: ''
+datePublished: '2016-05-18T14:11:04.818Z'
+dateModified: '2016-05-18T14:08:41.216Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-05-18-publications-and-presentations.md
+authors: []
+publisher: null
+starred: false
 url: publications-and-presentations/index.html
 _type: Article
 
 ---
-* M.
-R Kanakadurga, K.Hanumantharao and K. Shyamasundari- "Two new species of
-amphipods (Crustacea) from Waltair coast sponge Callyspongia fibrosa". Indian
-journal of Zootomy Vol. XXII No.2 1981, pp71-80
+* M. R Kanakadurga, K.Hanumantharao and K. Shyamasundari- "Two new species of amphipods (Crustacea) from Waltair coast sponge Callyspongia fibrosa". Indian journal of Zootomy Vol. XXII No.2 1981, pp71-80
 
-* M.
-R Kanakadurga, K.Hanumantharao and K.Shyamasundari- "A new species of amphiopod
-Hayale gopalaswamyi.sp new -- a commensal of sponges. J.Bombay nat.Hits soc.
-82(1) 29.41985, 165-170
+* M. R Kanakadurga, K.Hanumantharao and K.Shyamasundari- "A new species of amphiopod Hayale gopalaswamyi.sp new -- a commensal of sponges. J.Bombay nat.Hits soc. 82(1) 29.41985, 165-170
 
-* M.
-R Kanakadurga , K.Hanumantharao and Jalajakumari 'Studies in the various sponge
-inhabitants recorded from Visakhapatnam Coast , Science congress, 1-8th Jan , 1985, Lucknow.
+* M. R Kanakadurga , K.Hanumantharao and Jalajakumari 'Studies in the various sponge inhabitants recorded from Visakhapatnam Coast , Science congress, 1-8th Jan , 1985, Lucknow.
 
-* C.Jalajakumari,
-K.Hanumantharao and M.R Kanakadurga -- Histological and Histochemical studies of
-male reproductive system in ligia exotica Roux (Crustacea: Isopoda) 72nd Indian science Congress, 8th Jan.1985, Lucknow.
+* C.Jalajakumari, K.Hanumantharao and M.R Kanakadurga -- Histological and Histochemical studies of male reproductive system in ligia exotica Roux (Crustacea: Isopoda) 72nd Indian science Congress, 8th Jan.1985, Lucknow.
 
-* Paper
-presented -- Inquilinism- study on intertidal sponges of Visakhapatnam coast' in
-the international Conference in Zoology INCOZ-2006 Nov-19-22, organized by UGC
-Staff college and Dept. of Zoology at Jnanabharathi Campus, Bangalore.
+* Paper presented -- Inquilinism- study on intertidal sponges of Visakhapatnam coast' in the international Conference in Zoology INCOZ-2006 Nov-19-22, organized by UGC Staff college and Dept. of Zoology at Jnanabharathi Campus, Bangalore.
 
-* Dr.
-Lokesh, Dr.Ananthanarayana, Dr. Kanakadurga Murali and Dr. Yogananda Murthy- "
-Changes in the protein profile of silk worm Bombyx Mori L in response to
-chemical mutagen des' Presented the paper in the National Seminar on silk worm
-seed Research in India , 28-30th August 2008, at Mahila
-Viswavidyalam, Thirupathi.
+* Dr. Lokesh, Dr.Ananthanarayana, Dr. Kanakadurga Murali and Dr. Yogananda Murthy- " Changes in the protein profile of silk worm Bombyx Mori L in response to chemical mutagen des' Presented the paper in the National Seminar on silk worm seed Research in India , 28-30th August 2008, at Mahila Viswavidyalam, Thirupathi.
