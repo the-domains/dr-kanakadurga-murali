@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Class IX, X - Science'
-datePublished: '2016-05-18T14:29:17.851Z'
-dateModified: '2016-05-18T14:27:39.867Z'
+datePublished: '2016-05-18T15:07:05.689Z'
+dateModified: '2016-05-18T15:07:03.120Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-courses-offered.md
@@ -30,4 +30,3 @@ B.Sc / M.Sc / B.E Biotechnology
 Genetics
 
 Project Work
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a9538c-aa0b-4fde-bff2-ac519a77c117.jpg)
