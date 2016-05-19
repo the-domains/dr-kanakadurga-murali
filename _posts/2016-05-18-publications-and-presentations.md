@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T14:36:51.729Z'
-dateModified: '2016-05-18T14:35:48.515Z'
+datePublished: '2016-05-19T04:24:43.355Z'
+dateModified: '2016-05-18T15:08:24.013Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-publications-and-presentations.md
@@ -30,4 +30,3 @@ _type: Article
 * Paper presented -- Inquilinism- study on intertidal sponges of Visakhapatnam coast' in the international Conference in Zoology INCOZ-2006 Nov-19-22, organized by UGC Staff college and Dept. of Zoology at Jnanabharathi Campus, Bangalore.
 
 * Dr. Lokesh, Dr.Ananthanarayana, Dr. Kanakadurga Murali and Dr. Yogananda Murthy- " Changes in the protein profile of silk worm Bombyx Mori L in response to chemical mutagen des' Presented the paper in the National Seminar on silk worm seed Research in India , 28-30th August 2008, at Mahila Viswavidyalam, Thirupathi.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6472754c-95f2-4631-996e-6e3d8f59dc74.jpg)
