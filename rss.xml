@@ -4,8 +4,15 @@
         <description><![CDATA[Dr.Kanakadurga Murali]]></description>
         <link>https://thegrid.ai/dr-kanakadurga-murali/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 06:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 06:57:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dr-kanakadurga-murali/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c6b74-c8bb-4734-8d82-6e41ac65fd57.jpg">]]></description>
+            <link>https://thegrid.ai/dr-kanakadurga-murali/about-me/index.html</link>
+            <guid isPermaLink="false">2c71364e-ac12-47fd-8330-01f156160b19</guid>
+            <pubDate>Thu, 19 May 2016 06:57:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d484889d-8868-48b7-b859-0b5b0596d68f.jpg">]]></description>
@@ -32,13 +39,6 @@
             <link>https://thegrid.ai/dr-kanakadurga-murali/with-sir-edwin-mellor-southern-inventor-of-the-southern-blo/index.html</link>
             <guid isPermaLink="false">f93ecab0-e4de-4ea5-af45-25e646ec95a6</guid>
             <pubDate>Thu, 19 May 2016 03:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c6b74-c8bb-4734-8d82-6e41ac65fd57.jpg">]]></description>
-            <link>https://thegrid.ai/dr-kanakadurga-murali/about-me/index.html</link>
-            <guid isPermaLink="false">2c71364e-ac12-47fd-8330-01f156160b19</guid>
-            <pubDate>Wed, 18 May 2016 15:07:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
