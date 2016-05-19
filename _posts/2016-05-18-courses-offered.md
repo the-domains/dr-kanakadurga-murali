@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Class IX, X - Science'
-datePublished: '2016-05-19T03:44:10.963Z'
-dateModified: '2016-05-18T15:07:12.078Z'
+datePublished: '2016-05-19T04:49:06.595Z'
+dateModified: '2016-05-19T03:44:20.358Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-courses-offered.md
