@@ -1,16 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'GET IN TOUCH '
-datePublished: '2016-05-20T12:03:39.998Z'
-dateModified: '2016-05-20T12:02:52.549Z'
-authors: []
-publisher: null
+datePublished: '2016-05-20T12:07:41.691Z'
+dateModified: '2016-05-20T12:03:43.583Z'
 title: ''
 author: []
+authors: []
+publisher: null
 starred: false
 sourcePath: _posts/2016-05-20-get-in-touch.md
 url: get-in-touch/index.html
