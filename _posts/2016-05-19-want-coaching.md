@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'To know more get in touch at: Phone: Email: Skype:'
-datePublished: '2016-05-19T12:38:18.366Z'
-dateModified: '2016-05-19T11:43:49.687Z'
+description: Get in touch
+datePublished: '2016-05-20T10:24:27.608Z'
+dateModified: '2016-05-20T10:24:26.639Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-19-want-coaching.md
 authors: []
 publisher: null
@@ -17,4 +19,4 @@ url: want-coaching/index.html
 _type: Article
 
 ---
-To know more get in touch at: Phone: Email: Skype:
+![Get in touch](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e7b18aa-224c-4e7d-8e40-d7b63bd5e89f.png)
