@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Class IX, X - Science'
-datePublished: '2016-05-19T12:30:02.428Z'
-dateModified: '2016-05-19T04:49:15.134Z'
+datePublished: '2016-05-20T12:52:39.459Z'
+dateModified: '2016-05-20T12:52:19.414Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-courses-offered.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: courses-offered/index.html
 _type: Article
 
@@ -30,3 +30,5 @@ B.Sc / M.Sc / B.E Biotechnology
 Genetics
 
 Project Work
+
+\*Coaching is offered
