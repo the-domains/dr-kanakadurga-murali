@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 23 years of teaching experience
-datePublished: '2016-05-21T14:36:52.230Z'
-dateModified: '2016-05-21T14:17:24.772Z'
+datePublished: '2016-05-21T15:05:37.621Z'
+dateModified: '2016-05-21T15:04:52.919Z'
 title: Teaching Milestones
 author: []
 sourcePath: _posts/2016-05-21-teaching-milestones.md
