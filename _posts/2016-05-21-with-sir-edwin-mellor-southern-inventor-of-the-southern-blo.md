@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'With Sir Edwin Mellor Southern, inventor of the Southern Blot technique'
-datePublished: '2016-05-21T17:57:54.121Z'
-dateModified: '2016-05-21T17:57:26.416Z'
+datePublished: '2016-05-21T18:03:45.444Z'
+dateModified: '2016-05-21T18:02:50.243Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-with-sir-edwin-mellor-southern-inventor-of-the-southern-blo.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-with-sir-edwin-mellor-southern-inventor-of-the-southern-blo.md
 url: with-sir-edwin-mellor-southern-inventor-of-the-southern-blo/index.html
 _type: Article
 
