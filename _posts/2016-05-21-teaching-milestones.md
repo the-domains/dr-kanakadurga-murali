@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 23 years of teaching experience
-datePublished: '2016-05-21T11:50:55.134Z'
-dateModified: '2016-05-21T11:50:53.710Z'
+datePublished: '2016-05-21T12:03:09.633Z'
+dateModified: '2016-05-21T12:03:08.333Z'
 title: Teaching Milestones
 author: []
+sourcePath: _posts/2016-05-21-teaching-milestones.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-teaching-milestones.md
 url: teaching-milestones/index.html
 _type: Article
 
