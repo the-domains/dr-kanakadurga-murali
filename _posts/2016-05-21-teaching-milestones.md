@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 23 years of teaching experience
-datePublished: '2016-05-21T12:03:09.633Z'
-dateModified: '2016-05-21T12:03:08.333Z'
+datePublished: '2016-05-21T12:34:59.123Z'
+dateModified: '2016-05-21T12:28:40.249Z'
 title: Teaching Milestones
 author: []
 sourcePath: _posts/2016-05-21-teaching-milestones.md
@@ -19,7 +19,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/052a26df-96b0-4239-abe4-f96ef9c2e944.jpg)
 
-# Short Bio
+# Bio
 
 ## Teaching Milestones
 
@@ -32,6 +32,7 @@ Two students have won university gold medals
 Student secured 10th rank in B. Sc
 
 Students have secured 2nd and, 4th Ranks in M.Sc.
+![Rank Holders in MSc Applied Genetics 2011](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e51dca56-7962-4c36-9a5e-c42228dc4c86.jpg)
 
 ## Education
 
@@ -40,6 +41,7 @@ Ph.D. in Zoology, 1984, Andhra University WALTAIR. Title of the Thesis: "Studies
 M.Sc in Zoology, 1979, from College of Science & Technology, Andhra University.
 
 B.Sc (CBZ), 1977, Mrs. A V N College, Andhra University
+![Richa Kumari (Left) won 3rd prize in National Level Essay Competition – 99th Indian Science Congress 2012 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/879634ac-a6bc-4d82-b17d-789b825be589.jpg)
 
 ## Experience
 
@@ -52,3 +54,5 @@ Head of the Dept. of Biology, Anupama College of Management & Science, Bangalore
 Lecturer of biology, Anupama College of Management & Science, Bangalore. (1997-1999) 
 
 Lecturer in Zoology, K.V.R College Nandigama, Andhra Pradesh. (1985-88)
+![WINNERS OF INTERCOLLEGE COMPETITION - 1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee2e321-e529-4964-b292-fd867a2de855.jpg)
+![WINNERS OF INTERCOLLEGE COMPETITION - 2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd6ad6ad-6694-42c7-9e2c-9bd703d99f91.jpg)
