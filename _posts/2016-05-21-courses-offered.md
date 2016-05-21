@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement
-datePublished: '2016-05-21T17:45:09.048Z'
-dateModified: '2016-05-21T17:43:50.854Z'
+datePublished: '2016-05-21T18:07:46.873Z'
+dateModified: '2016-05-21T18:05:34.743Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-courses-offered.md
@@ -27,4 +27,6 @@ Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricin
 * BSc / MSc / BE Biotechnology (Molecular Biology, Molecular Medicine)
 * BSc / MSc Genetics
 
-Get in touch
+[Get in touch for more details][0]
+
+[0]: http://eepurl.com/b2oesL
