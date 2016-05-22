@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T07:56:58.237Z'
-dateModified: '2016-05-22T07:12:05.525Z'
+datePublished: '2016-05-22T09:14:31.398Z'
+dateModified: '2016-05-22T07:58:46.856Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-22-with-sir-edwin-mellor-southern-nobel-laureate-at-gkvk.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-with-sir-edwin-mellor-southern-nobel-laureate-at-gkvk.md
 url: with-sir-edwin-mellor-southern-nobel-laureate-at-gkvk/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072d9088-dad6-4080-9bf3-23b78e1352d9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49147a8bef50f69352927b4d18595d5233d155fe.jpg)
