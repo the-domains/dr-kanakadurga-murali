@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lecture Series & Workshop on Molecular Techniques and Applications by Orange Life Sciences'
-datePublished: '2016-05-21T10:43:28.028Z'
-dateModified: '2016-05-21T10:43:23.684Z'
+datePublished: '2016-05-22T10:18:41.405Z'
+dateModified: '2016-05-22T10:14:12.740Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-21-lecture-series-and-workshop-by-orange-life-sciences.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-lecture-series-and-workshop-by-orange-life-sciences.md
 url: lecture-series-and-workshop-by-orange-life-sciences/index.html
 _type: Article
 
