@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement
-datePublished: '2016-05-22T06:02:34.093Z'
-dateModified: '2016-05-22T06:01:12.776Z'
+description: Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement.
+datePublished: '2016-05-22T10:38:47.723Z'
+dateModified: '2016-05-22T10:38:40.846Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-courses-offered.md
@@ -17,7 +17,7 @@ url: courses-offered/index.html
 _type: Article
 
 ---
-Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement
+Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement.
 
 * Class IX / X - Science
 * Class XI / XII / PUC - Biology, Chemistry
