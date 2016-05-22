@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Coaching is offered at Bangalore as well as online over Skype / Hangouts. Pricing is hourly or term wise based on requirement
-datePublished: '2016-05-22T06:01:04.606Z'
-dateModified: '2016-05-21T18:07:55.547Z'
+datePublished: '2016-05-22T06:02:34.093Z'
+dateModified: '2016-05-22T06:01:12.776Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-courses-offered.md
