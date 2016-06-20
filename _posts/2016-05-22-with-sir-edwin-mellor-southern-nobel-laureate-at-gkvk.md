@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T06:58:48.953Z'
-dateModified: '2016-06-20T06:57:20.225Z'
+datePublished: '2016-06-20T07:06:52.156Z'
+dateModified: '2016-06-20T07:00:14.315Z'
 title: 'With Sir Edwin Mellor Southern, Nobel Laureate at GKVK'
 author:
   - name: ''
